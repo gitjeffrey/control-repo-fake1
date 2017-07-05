@@ -22,5 +22,5 @@ mod 'puppetlabs-concat', '4.0.1'
 mod 'puppet-staging', '2.2.0'
 
 mod 'puppetlabs-java', '2.1.0'
-mod 'puppetlabs-archive', '1.3.0'
+mod 'puppet-archive', '1.3.0'
 # mod 'puppetlabs-stdlib', '4.17.1'
